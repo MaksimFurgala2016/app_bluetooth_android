@@ -1,0 +1,5 @@
+D:\Develop\AppBluetooth\AppBluetooth\obj\Release\50\MonoAndroid,Version=v5.0.AssemblyAttributes.cs
+D:\Develop\AppBluetooth\AppBluetooth\obj\Release\50\AppBluetooth.nuget.stamp
+D:\Develop\AppBluetooth\AppBluetooth\obj\Release\50\AppBluetooth.csprojAssemblyReference.cache
+D:\Develop\AppBluetooth\AppBluetooth\obj\Release\50\libraryimports.cache.stamp
+D:\Develop\AppBluetooth\AppBluetooth\obj\Release\50\res.flag
